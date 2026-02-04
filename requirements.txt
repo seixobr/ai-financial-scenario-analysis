@@ -1,0 +1,5 @@
+openai
+groq
+openai-whisper
+gTTS
+yfinance
